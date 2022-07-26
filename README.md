@@ -1,1 +1,1 @@
-# odin-rock-paper-scissors
+Initail attempt at The Odin Project's Rock, Paper, Scissors project. 
